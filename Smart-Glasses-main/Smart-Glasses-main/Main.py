@@ -35,6 +35,7 @@ while True:
     # Speak the extracted text
     language = 'en'
     myobj = gTTS(text=text, lang=language, slow=False)
+    engine.say(text)
     engine.runAndWait()
 
     # Display the frame with the detected text
