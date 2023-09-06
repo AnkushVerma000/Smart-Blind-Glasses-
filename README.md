@@ -15,3 +15,4 @@ This project calls for a Raspberry Pi, a camera, earbuds, and some simple eyewea
 
   # Project-Model
 <a href="" target="_blank"> <img src=https://github.com/AnkushVerma000/Smart-Blind-Glasses/blob/main/Smart-Glasses-main/Smart-Glasses-main/model%20image.jpeg> </a>
+
